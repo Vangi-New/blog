@@ -2,25 +2,26 @@
 home: true
 modules:
   - BannerBrand
-  - Blog
-  - MdContent
+#   - Blog
+#   - MdContent
   - Footer
 bannerBrand:
-  bgImage: '/bg.svg'
-  title: 立超是混蛋.com
-  description: 一款简洁的 vuepress 博客 & 文档 主题。
-  tagline: 淘宝99块防狼剪刀————来自全国各地的一千多名受害者联名款。
+  bgImage: /bg.svg
+  title: 守望幼儿园
+  description: 我收到了召唤，我必须回应，一如既往。
+  tagline: EXP是一个缩写，它的全名是executionpoint(处决点数)。一种用来量化你队别人造成痛苦的方式。每当你杀死别人，你的EXP就将增加。当你有了足够的EXP，你的LOVE就会增加，同样的，LOVE也是一个缩写。它的全名是level of violence(暴力指数)。用来衡量一个人伤害别人的能力。你杀的越多，就越容易远离自己的本心。你越远离自己的本心，就越难被伤害，就越容易放任自己去伤害别人。
   buttons:
-    - { text: 防狼剪刀, link: '/docs/guide/introduce' }
-    - { text: 斐济杯, link: '/docs/style-default-api/introduce', type: 'plain' }
-  socialLinks:
-    - { icon: 'LogoGithub', link: 'https://github.com/vuepress-reco/vuepress-theme-reco' }
-blog:
-  socialLinks:
-    - { icon: 'LogoGithub', link: 'https://github.com/recoluan' }
+    - { text: 拯救世界, link: '/blogs/other/guide' }
+    # - { text: 斐济杯, link: '/docs/style-default-api/introduce', type: 'plain' }
+#   socialLinks:
+#     - { icon: 'LogoGithub', link: 'https://github.com/vuepress-reco/vuepress-theme-reco' }
+#     - { icon: 'LogoGitee', link: 'https://gitee.com/vangi' }
+# blog:
+#   socialLinks:
+#     - { icon: 'LogoGithub', link: 'https://github.com/recoluan' }
 isShowTitleInHome: true
-actionText: AAA
-actionLink: /views/other/about
+footer: # 底部模块的配置
+  startYear: 2023
 ---
 
 ## 荣誉榜
