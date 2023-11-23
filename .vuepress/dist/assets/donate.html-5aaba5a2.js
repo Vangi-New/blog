@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-0584b74e","path":"/docs/others/donate.html","title":"api","lang":"en-US","frontmatter":{"title":"api","date":"2020/05/29"},"headers":[{"level":2,"title":"说明","slug":"说明","link":"#说明","children":[]}],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"filePathRelative":"docs/others/donate.md"}');export{e as data};
