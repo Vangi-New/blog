@@ -9,7 +9,7 @@ npm run build
 git add .
 git commit -m 'deploy update'
 
-# git remote add origin https://gitee.com/vangi/blog.git
-# git remote add origin git@gitee.com:vangi/blog.git
+# git remote add origin https://gitee.com/vangi/vangi.git
+# git remote add origin git@gitee.com:vangi/vangi.git
 # git push -u origin "master"
 git push origin "master"

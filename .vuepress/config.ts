@@ -6,7 +6,7 @@ export default defineUserConfig({
     title: "小花花幼儿园",
     description: "小花花幼儿园院长的知识笔记库",
     // 部署在nginx或者仓库上，则需要注意配置前置路径，以防访问不到静态资源
-    base: "/blog/",
+    // base: "/blog/",
     // dest: './dist',
     // port: 7777,
     theme: recoTheme({
@@ -50,7 +50,7 @@ export default defineUserConfig({
                 icon: "Book",
                 children: [
                     { text: "vuepress-reco", link: "/docs/theme-reco/theme" },
-                    { text: "vuepress-reco", link: "/docs/theme-11/分组1/theme" },
+                    { text: "vue11", link: "/docs/theme-11/分组1/theme" },
                     { text: "黑马Vue", link: "/docs/前端/Vue/day01.html" },
                 ],
             },
