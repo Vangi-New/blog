@@ -7,7 +7,7 @@ npm run build
 
 # git checkout master
 git add .
-git commit -m 'deploy init'
+git commit -m 'deploy update'
 
 # git remote add origin https://gitee.com/vangi/blog.git
 # git remote add origin git@gitee.com:vangi/blog.git
