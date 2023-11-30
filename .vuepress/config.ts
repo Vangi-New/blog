@@ -6,7 +6,7 @@ export default defineUserConfig({
     title: "小花花幼儿园",
     description: "小花花幼儿园院长的知识笔记库",
     // 部署在nginx或者仓库上，则需要注意配置前置路径，以防访问不到静态资源
-    // base: "/blog/",
+    base: "/blog/",
     // dest: './dist',
     // port: 7777,
     theme: recoTheme({
