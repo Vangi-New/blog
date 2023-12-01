@@ -11,7 +11,7 @@ bannerBrand:
   description: 我收到了召唤，我必须回应，一如既往。
   tagline: 这个世界，值得为之奋斗。
   buttons:
-    - { text: 启动！, link: '/docs/前端/guide' }
+    - { text: 启动！, link: '/docs/front-end/guide' }
     # - { text: 斐济杯, link: '/docs/style-default-api/introduce', type: 'plain' }
 #   socialLinks:
 #     - { icon: 'LogoGithub', link: 'https://github.com/vuepress-reco/vuepress-theme-reco' }
