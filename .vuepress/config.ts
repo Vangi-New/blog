@@ -29,6 +29,26 @@ export default defineUserConfig({
                     text: "module two",
                     children: ["mark-home"],
                 },
+            ],
+            "/docs/前端/": [
+                "/docs/前端/guide.html",
+                {
+                    text: "Vue",
+                    children: [
+                        "/docs/前端/Vue/day01.html",
+                        "/docs/前端/Vue/day02.html",
+                        "/docs/前端/Vue/day03.html",
+                        "/docs/前端/Vue/day04.html",
+                        "/docs/前端/Vue/day05.html",
+                        "/docs/前端/Vue/day06.html",
+                        "/docs/前端/Vue/day07.html",
+                        "/docs/前端/Vue/智慧商城项目.html",
+                        "/docs/前端/Vue/day11-Vue3入门.html",
+                        "/docs/前端/Vue/Pinia.html",
+                        "/docs/前端/Vue/大事件管理系统.html",
+                    ],
+                    collapsible: true // 默认展开，true 为折叠
+                },
             ]
         },
         // 自动设置series
@@ -50,8 +70,7 @@ export default defineUserConfig({
                 icon: "Book",
                 children: [
                     { text: "vuepress-reco", link: "/docs/theme-reco/theme" },
-                    { text: "vue11", link: "/docs/theme-11/分组1/theme" },
-                    { text: "黑马Vue", link: "/docs/前端/Vue/day01.html" },
+                    { text: "Vue基础", link: "/docs/前端/Vue/day01.html" },
                 ],
             },
             { text: "友情链接", icon: "Launch", link: "/friendship-link" },
