@@ -30,24 +30,24 @@ export default defineUserConfig({
                     children: ["mark-home"],
                 },
             ],
-            // "/docs/front-end/": [
-            //     "/docs/front-end/guide.html",
+            // "/docs/programming-development/front-end/": [
+            //     "/docs/programming-development/front-end/index.html",
             //     {
             //         text: "Vue",
             //         children: [
-            //             "/docs/front-end/Vue/day01.html",
-            //             "/docs/front-end/Vue/day02.html",
-            //             "/docs/front-end/Vue/day03.html",
-            //             "/docs/front-end/Vue/day04.html",
-            //             "/docs/front-end/Vue/day05.html",
-            //             "/docs/front-end/Vue/day06.html",
-            //             "/docs/front-end/Vue/day07.html",
-            //             "/docs/front-end/Vue/智慧商城项目.html",
-            //             "/docs/front-end/Vue/day11-Vue3入门.html",
-            //             "/docs/front-end/Vue/Pinia.html",
-            //             "/docs/front-end/Vue/大事件管理系统.html",
+            //             "/docs/programming-development/front-end/Vue/day01.html",
+            //             "/docs/programming-development/front-end/Vue/day02.html",
+            //             "/docs/programming-development/front-end/Vue/day03.html",
+            //             "/docs/programming-development/front-end/Vue/day04.html",
+            //             "/docs/programming-development/front-end/Vue/day05.html",
+            //             "/docs/programming-development/front-end/Vue/day06.html",
+            //             "/docs/programming-development/front-end/Vue/day07.html",
+            //             "/docs/programming-development/front-end/Vue/智慧商城项目.html",
+            //             "/docs/programming-development/front-end/Vue/day11-Vue3入门.html",
+            //             "/docs/programming-development/front-end/Vue/Pinia.html",
+            //             "/docs/programming-development/front-end/Vue/大事件管理系统.html",
             //         ],
-            //         collapsible: true // 默认展开，true 为折叠
+            //         collapsible: false // 默认展开，true 为折叠
             //     },
             // ]
         },
@@ -70,7 +70,7 @@ export default defineUserConfig({
                 icon: "Book",
                 children: [
                     { text: "vuepress-reco", link: "/docs/theme-reco/theme" },
-                    { text: "Vue基础", link: "/docs/front-end/Vue/day01.html" },
+                    { text: "IT互联网", link: "/blogs/docs-guide/it-guide" },
                 ],
             },
             { text: "友情链接", icon: "Launch", link: "/friendship-link" },

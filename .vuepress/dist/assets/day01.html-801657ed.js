@@ -1,0 +1,1 @@
+import{_ as t,o as a,c,b as e,e as o}from"./app-13e0b768.js";const s={},n=e("h2",{id:"一、为什么要学习vue",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#一、为什么要学习vue","aria-hidden":"true"},"#"),o(" 一、为什么要学习Vue")],-1),r=e("p",null,"喜欢就好，技多不压身。",-1),_=[n,r];function d(i,l){return a(),c("div",null,_)}const u=t(s,[["render",d],["__file","day01.html.vue"]]);export{u as default};
