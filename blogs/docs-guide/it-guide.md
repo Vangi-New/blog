@@ -16,7 +16,7 @@ IT互联网编程开发知识，学习路上的知识总结文档
 - [vue基础](/docs/vue/day01.md)
 
 ### 测试与运维
-- [git](/docs/vue/day01.md)
+- [git](/docs/git/heima-tutorial.md)
 
 ## 人工智能
 - todo
