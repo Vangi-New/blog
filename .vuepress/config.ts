@@ -63,6 +63,7 @@ export default defineUserConfig({
                     { text: "标签", link: "/tags/tag1/1/" },
                     { text: "博客列表", link: "/posts" },
                     { text: "时间轴", link: "/timeline" },
+                    { text: "常用工具", link: "/blogs/other/tools" },
                 ],
             },
             {
@@ -146,6 +147,11 @@ export default defineUserConfig({
                 title: 'vuepress-recovuepress-reco',
                 logo: 'https://avatars.githubusercontent.com/u/54167020?s=200&v=4',
                 link: 'https://github.com/vuepress-reco'
+            },
+            {
+                title: 'vk-unicloud快速开发框架',
+                logo: '',
+                link: 'https://vkdoc.fsq.pub/'
             }
         ],
     }),
