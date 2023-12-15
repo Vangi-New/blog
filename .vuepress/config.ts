@@ -1,5 +1,6 @@
 import { defineUserConfig } from "vuepress";
 import type { DefaultThemeOptions } from "vuepress";
+import { viteBundler } from '@vuepress/bundler-vite'
 import recoTheme from "vuepress-theme-reco";
 
 export default defineUserConfig({
@@ -146,14 +147,24 @@ export default defineUserConfig({
             {
                 title: 'vuepress-recovuepress-reco',
                 logo: 'https://avatars.githubusercontent.com/u/54167020?s=200&v=4',
-                link: 'https://github.com/vuepress-reco'
-            },
-            {
-                title: 'vk-unicloud快速开发框架',
-                logo: '',
-                link: 'https://vkdoc.fsq.pub/'
+                link: 'https://vuepress-theme-reco.recoluan.com/'
             }
         ],
     }),
     // debug: true,
+    bundler: viteBundler({
+        viteOptions: {
+            build: {
+                rollupOptions: {
+                    external: [
+                        "orginal-files","/docs"
+                    ]
+                }
+            },
+            optimizeDeps: {
+                exclude: ["orginal-files","/docs"]
+            }
+        },
+        vuePluginOptions: {},
+    }),
 });

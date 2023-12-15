@@ -13,7 +13,8 @@ IT互联网编程开发知识，学习路上的知识总结文档
 
 ## 编程开发
 ### 前端开发
-- [vue基础](/docs/vue/day01.md)
+- [vue教程](/docs/vue/day01.md)
+- [typescript教程](/docs//typescript/01.md)
 
 ### 测试与运维
 - [git](/docs/git/heima-tutorial.md)

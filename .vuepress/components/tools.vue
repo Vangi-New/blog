@@ -7,31 +7,31 @@ const toolsGroup = ref([
         toolsList: [
             {
                 title: "React",
-                logo: "http://www.alloyteam.com/nav/static/images/react-favicon.png",
+                logo: "https://cdn.freebiesupply.com/logos/large/2x/react-logo-png-transparent.png",
                 desc: "用于构建用户界面的Javscript库",
                 link: "https://react.dev/"
             },
             {
                 title: "Vue",
-                logo: "http://www.alloyteam.com/nav/static/images/vue-favicon.png",
+                logo: "https://pic1.zhimg.com/v2-a2b83e07b78e361ae6bc6f4e109e97b9_720w.jpg?source=172ae18b",
                 desc: "构建数据驱动的web界面的渐进式框架",
                 link: "https://cn.vuejs.org/"
             },
             {
                 title: "jQuery",
-                logo: "http://www.alloyteam.com/nav/static/images/jquery.png",
+                logo: "	https://www.jquery123.com/assets/images/jquery-logo-md.png",
                 desc: "优秀的JavaScript代码库",
                 link: "https://www.jquery123.com/"
             },
             {
                 title: "Bootstrap",
-                logo: "http://www.alloyteam.com/nav/static/images/bootstrap-favicon.png",
+                logo: "https://www.bootcss.com/assets/img/navlogo-small.png",
                 desc: "基于HTML/CSS/Javscript的前端框架",
                 link: "http://www.bootcss.com/"
             },
             {
                 title: "React Native",
-                logo: "http://www.alloyteam.com/nav/static/images/react-native.png",
+                logo: "https://cdn.freebiesupply.com/logos/large/2x/react-logo-png-transparent.png",
                 desc: "使用React构建原生app的框架",
                 link: "https://reactnative.cn/"
             },
@@ -48,13 +48,13 @@ const toolsGroup = ref([
         toolsList: [
             {
                 title: "印记中文",
-                logo: "http://www.alloyteam.com/nav/static/images/docschina.png",
+                logo: "https://docschina.org/_next/static/media/docschina-logo.026ff887.svg",
                 desc: "印记中文是最权威是技术中文文档社区",
                 link: "https://docschina.org/"
             },
             {
                 title: "W3cplus",
-                logo: "http://www.alloyteam.com/nav/static/images/w3cplus-favicon.png",
+                logo: "https://tse3-mm.cn.bing.net/th/id/OIP-C.Lf2jjRvG5CIhOf90JACnxgHaFo?rs=1&pid=ImgDetMain",
                 desc: "W3cplus是一个致力于推广国内前端行业的技术博客",
                 link: "http://www.w3cplus.com/"
             },
@@ -65,7 +65,7 @@ const toolsGroup = ref([
         toolsList: [
             {
                 title: "Iconfont",
-                logo: "http://www.alloyteam.com/nav/static/images/iconfont-favicon.jpg",
+                logo: "https://tse3-mm.cn.bing.net/th/id/OIP-C.f3yZ6i2HttqJhkAiB-3pjAHaHa?rs=1&pid=ImgDetMain",
                 desc: "阿里巴巴矢量图标库",
                 link: "https://www.iconfont.cn/"
             },
@@ -87,13 +87,13 @@ const toolsGroup = ref([
         toolsList: [
             {
                 title: "腾讯 AlloyTeam 团队",
-                logo: "http://www.alloyteam.com/nav/static/images/alloyteam-favicon.jpg",
+                logo: "",
                 desc: "腾讯Web前端团队，代表作品WebQQ，致力于前端技术的研究",
                 link: "http://www.alloyteam.com/"
             },
             {
                 title: "ISUX",
-                logo: "http://www.alloyteam.com/nav/static/images/isux-favicon.jpg",
+                logo: "https://isux.tencent.com/static/images/logo.svg",
                 desc: "腾讯社交用户体验设计，简称ISUX，腾讯设计团队网站",
                 link: "https://isux.tencent.com/"
             },
@@ -104,13 +104,13 @@ const toolsGroup = ref([
         toolsList: [
             {
                 title: "PhaserJS",
-                logo: "http://www.alloyteam.com/nav/static/images/phaserjs.png",
+                logo: "https://phaser.io/images/img2.png",
                 desc: "PC端和移动端HTML5游戏框架。",
                 link: "http://phaser.io/"
             },
             {
                 title: "Cocos2d-x",
-                logo: "http://www.alloyteam.com/nav/static/images/cocos2dx.png",
+                logo: "https://www.cocos.com/_nuxt/img/logo.b924db5.png",
                 desc: "以内容创作为核心的一体化游戏开发工具",
                 link: "https://www.cocos.com/"
             },
@@ -121,25 +121,25 @@ const toolsGroup = ref([
         toolsList: [
             {
                 title: "JavaScript权威指南",
-                logo: "http://www.alloyteam.com/nav/static/images/define-guild.jpg",
+                logo: "",
                 desc: "学习 JavaScript 的必备书刊",
                 link: "https://book.douban.com/subject/6854549/"
             },
             {
                 title: "JavaScript高级程序设计",
-                logo: "http://www.alloyteam.com/nav/static/images/professional-javascript.jpg",
+                logo: "",
                 desc: "红宝书",
                 link: "https://book.douban.com/subject/10546125//"
             },
             {
                 title: "JavaScript设计模式与开发实践",
-                logo: "http://www.alloyteam.com/nav/static/images/js-design-pattern.jpg",
+                logo: "",
                 desc: "本书将教会你如何把经典的设计模式应用到JavaScript语言中",
                 link: "https://book.douban.com/subject/26382780/"
             },
             {
                 title: "HTTP权威指南",
-                logo: "http://www.alloyteam.com/nav/static/images/http-guide.jpg",
+                logo: "",
                 desc: "比较少见的全面介绍HTTP协议的书。",
                 link: "https://book.douban.com/subject/10746113/"
             },
@@ -159,6 +159,7 @@ const logMessage = () => {
                 <div class="list-item">
                     <div class="list-item-head">
                         <img :src="value.logo" alt="" v-if="value.logo">
+                        <span v-else>{{ value.title.substring(0,1) }}</span>
                         {{ value.title }}
                     </div>
                     <div class="list-item-content">
@@ -216,6 +217,7 @@ a:-webkit-any-link {
                 text-overflow: ellipsis;
                 white-space: nowrap;
                 padding: 0 .1rem;
+                
 
                 &>img {
                     width: 40px;
@@ -224,6 +226,20 @@ a:-webkit-any-link {
                     vertical-align: middle;
                     margin: 0;
                     display: inline-block;
+                    border: 1px #3273dc solid;
+                }
+
+                &>span {
+                    display: inline-block;
+                    width: 40px;
+                    height: 40px;
+                    font-size: 18px;
+                    font-weight: bold;
+                    line-height: 40px;
+                    text-align: center;
+                    color: black;
+                    border: 1px #3273dc solid;
+                    border-radius: 50%;
                 }
             }
 
