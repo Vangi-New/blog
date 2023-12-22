@@ -17,7 +17,7 @@ IT互联网编程开发知识，学习路上的知识总结文档
 - [typescript教程](/docs//typescript/01.md)
 
 ### 测试与运维
-- [git](/docs/git/heima-tutorial.md)
+- [git命令大全](/docs/git/all-commands.md)
 
 ## 人工智能
 - todo
