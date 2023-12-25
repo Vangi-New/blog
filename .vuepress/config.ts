@@ -61,7 +61,7 @@ export default defineUserConfig({
                 icon: "Blog",
                 children: [
                     { text: "分类", link: "/categories/reco/1/" },
-                    { text: "标签", link: "/tags/tag1/1/" },
+                    { text: "标签", link: "/tags/sex/1/" },
                     { text: "博客列表", link: "/posts" },
                     { text: "时间轴", link: "/timeline" },
                     { text: "常用工具", link: "/blogs/other/tools" },
@@ -72,7 +72,8 @@ export default defineUserConfig({
                 icon: "Book",
                 children: [
                     { text: "vuepress-reco", link: "/docs/theme-reco/theme" },
-                    { text: "IT互联网", link: "/blogs/docs-guide/it-guide" },
+                    { text: "IT互联网", link: "/blogs/programming-development/docs-guide" },
+                    { text: "随笔", link: "/blogs/notes/" },
                 ],
             },
             { text: "友情链接", icon: "Launch", link: "/friendship-link" },
