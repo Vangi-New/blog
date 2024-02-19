@@ -72,7 +72,7 @@ export default defineUserConfig({
                 icon: "Book",
                 children: [
                     { text: "vuepress-reco", link: "/docs/theme-reco/theme" },
-                    { text: "IT互联网", link: "/blogs/programming-development/docs-guide" },
+                    { text: "IT互联网", link: "/blogs/programming-development/" },
                     { text: "随笔", link: "/blogs/notes/" },
                 ],
             },
