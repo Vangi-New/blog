@@ -19,6 +19,7 @@ IT互联网编程开发知识，学习路上的知识总结文档
 
 ### 测试与运维
 - [git命令大全](/docs/git/all-commands.md)
+- [docker](/docs/docker/guide.md)
 
 ## 人工智能
 - todo
