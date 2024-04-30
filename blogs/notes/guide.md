@@ -14,3 +14,5 @@ date: 2023/12/25
 ## 发癫
 
 - [理想主义的彷徨之路](./insane/helpless-idealism.md)
+
+2323232311
