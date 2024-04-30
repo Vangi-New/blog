@@ -16,3 +16,5 @@ date: 2023/12/25
 - [理想主义的彷徨之路](./insane/helpless-idealism.md)
 
 111
+
+2323232311
