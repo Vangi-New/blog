@@ -43,12 +43,7 @@ console.log(EventEmitter.prototype)
 
 有很多方法，光看名字我们就能知道每个方法的作用是什么：
 
-- on：订阅事件
-- emit：发布事件
-- once：只订阅一次，也就是只能触发一次
-- `removeListener`：移除订阅者
-- `removerAllListeners`：移除所有的订阅者
-- off：`removeLister` 方法的别名
+![](./assets/events模块和发布订阅模式/20240607153018.png)
 
 ### 使用
 
