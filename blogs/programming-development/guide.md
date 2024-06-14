@@ -13,12 +13,12 @@ IT互联网编程开发知识，学习路上的知识总结文档
 
 ## 编程开发
 ### 前端开发
-- [vue教程](/docs/vue/day01.md)
+- [vue教程](/docs/vue/guide.md)
 - [typescript教程](/docs/typescript/guide.md)
 - [nodeJS笔记](/docs/nodejs/guide.md)
 
 ### 测试与运维
-- [git命令大全](/docs/git/all-commands.md)
+- [git命令大全](/docs/git/guide.md)
 - [docker](/docs/docker/guide.md)
 
 ## 人工智能

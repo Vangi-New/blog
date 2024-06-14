@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-6ab785c6","path":"/docs/2024/04/2024-04-22.html","title":"Mon Apr 22 2024 08:00:00 GMT+0800 (中国标准时间)","lang":"en-US","frontmatter":{"title":"2024-04-22T00:00:00.000Z","date":"2024/04/22"},"headers":[],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"filePathRelative":"docs/2024/04/2024-04-22.md"}');export{t as data};

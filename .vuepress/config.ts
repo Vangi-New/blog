@@ -74,7 +74,13 @@ export default defineUserConfig({
                     { text: "vuepress-reco", link: "/docs/theme-reco/theme" },
                     { text: "IT互联网", link: "/blogs/programming-development/guide" },
                     { text: "随笔", link: "/blogs/notes/guide" },
-                    { text: "流水账", link: "/blogs/notes/diary/guide" },
+                ],
+            },
+            {
+                text: "流水账",
+                icon: "Book",
+                children: [
+                    { text: "2024", link: "/docs/2024diary/guide" },
                 ],
             },
             { text: "友情链接", icon: "Launch", link: "/friendship-link" },
