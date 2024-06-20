@@ -33,3 +33,9 @@ IT互联网编程开发知识，学习路上的知识总结文档
 ## 产品经理
 - todo
 
+##  学习网站
+
+- [多媒体](www.doyoudo.com)
+- [高等教育智慧平台](https://higher.smartedu.cn/courses)
+- [夜曲编程](https://np.baicizhan.com/)
+- [学语言](https://www.lingohut.com/)
