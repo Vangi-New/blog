@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-c8f0fe70","path":"/tags/gongwuyuan/1/","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{t as data};
