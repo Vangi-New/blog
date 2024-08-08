@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-418b39d5","path":"/docs/vue/02-xiaotuxianer/15.html","title":"15-总结)","lang":"en-US","frontmatter":{"title":"15-总结)","date":"2024/08/08"},"headers":[{"level":2,"title":"总结","slug":"总结","link":"#总结","children":[]}],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"filePathRelative":"docs/vue/02-小兔鲜儿/15.md"}');export{e as data};
